@@ -2,7 +2,7 @@
 Wrapper around win32gui, win32con for Window Management on Windows
 
 ## Why
-win32gui and win32con have a really weird set of methods; I was looking for some convenience in a project of mine.
+win32gui and win32con have a really weird set of methods; I was looking for some convenience in a project of mine that was managing windows.
 
 ## Install
 Haven't made this into a pip installable module yet, so just drop win_manage.py into your project and make sure win32con+win32gui is installed.
