@@ -1,5 +1,5 @@
 # win_manage
-Wrapper around win32gui, win32con for Window Management on Windows
+Wrapper around win32gui, win32con for Window Management on Windows.
 
 ## Why
 win32gui and win32con have a really weird set of methods; I was looking for some convenience in a project of mine that was managing windows.
